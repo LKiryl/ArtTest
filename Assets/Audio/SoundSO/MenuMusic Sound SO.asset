@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38c829c7e58ad024db4557aabe2b3e19, type: 3}
+  m_Name: MenuMusic Sound SO
+  m_EditorClassIdentifier: 
+  AudioType: 0
+  AudioClip: {fileID: 8300000, guid: afd58ac2173667544a516a26cc8412b7, type: 3}
+  Loop: 0
+  RandomizePitch: 0
+  RandomPitchRangeModifier: 0.1
+  Volume: 0.85
+  Pitch: 1
